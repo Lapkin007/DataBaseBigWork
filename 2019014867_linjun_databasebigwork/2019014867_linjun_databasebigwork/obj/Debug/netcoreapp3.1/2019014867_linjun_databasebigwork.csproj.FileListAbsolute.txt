@@ -1,0 +1,152 @@
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.exe
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.deps.json
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.runtimeconfig.json
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.runtimeconfig.dev.json
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.dll
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.pdb
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\MySql.Data.xml
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.csproj.AssemblyReference.cache
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork_MarkupCompile.cache
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork_MarkupCompile.lref
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.g.resources
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.AssemblyInfoInputs.cache
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.AssemblyInfo.cs
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.csproj.CoreCompileInputs.cache
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.csproj.CopyComplete
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.dll
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.pdb
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.genruntimeconfig.cache
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\Admin.g.cs
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\User.g.cs
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\Admin.baml
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\User.baml
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.exe
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.deps.json
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.runtimeconfig.json
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.runtimeconfig.dev.json
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.dll
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.pdb
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\MySql.Data.xml
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.csproj.AssemblyReference.cache
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\Admin.g.cs
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\User.g.cs
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork_MarkupCompile.cache
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork_MarkupCompile.lref
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\Admin.baml
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\User.baml
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.g.resources
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.AssemblyInfoInputs.cache
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.AssemblyInfo.cs
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.csproj.CoreCompileInputs.cache
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.csproj.CopyComplete
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.dll
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.pdb
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.genruntimeconfig.cache
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\comment.g.cs
+C:\Users\iceiceice\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\comment.baml
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\comment.g.cs
+C:\Users\lzayo\Desktop\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\comment.baml
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.exe
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.deps.json
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.runtimeconfig.json
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.runtimeconfig.dev.json
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.dll
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.pdb
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\MySql.Data.xml
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.csproj.AssemblyReference.cache
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\Admin.g.cs
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\comment.g.cs
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\User.g.cs
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork_MarkupCompile.cache
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork_MarkupCompile.lref
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\Admin.baml
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\comment.baml
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\User.baml
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.g.resources
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.AssemblyInfoInputs.cache
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.AssemblyInfo.cs
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.csproj.CoreCompileInputs.cache
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.csproj.CopyComplete
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.dll
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.pdb
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.genruntimeconfig.cache
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.exe
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.deps.json
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.runtimeconfig.json
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.runtimeconfig.dev.json
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.dll
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.pdb
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\MySql.Data.xml
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.csproj.AssemblyReference.cache
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\Admin.g.cs
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\comment.g.cs
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\User.g.cs
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork_MarkupCompile.cache
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork_MarkupCompile.lref
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\Admin.baml
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\comment.baml
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\User.baml
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.g.resources
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.AssemblyInfoInputs.cache
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.AssemblyInfo.cs
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.csproj.CoreCompileInputs.cache
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.csproj.CopyComplete
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.dll
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.pdb
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.genruntimeconfig.cache
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\checkuser.g.cs
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\checkuser.baml
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\xiugai.g.cs
+C:\Users\lzayo\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\xiugai.baml
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\checkuser.g.cs
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\xiugai.g.cs
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\checkuser.baml
+C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\obj\Debug\netcoreapp3.1\xiugai.baml

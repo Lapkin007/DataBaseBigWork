@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>2019014867_linjun_databasebigwork</id>
+    <version>1.0.0</version>
+    <authors>2019014867_linjun_databasebigwork</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.runtimeconfig.json" target="lib\netcoreapp3.1\2019014867_linjun_databasebigwork.runtimeconfig.json" />
+    <file src="C:\Users\iceiceice\Desktop\数据库大作业 (2)\数据库大作业\2019014867_linjun_databasebigwork\2019014867_linjun_databasebigwork\bin\Debug\netcoreapp3.1\2019014867_linjun_databasebigwork.dll" target="lib\netcoreapp3.1\2019014867_linjun_databasebigwork.dll" />
+  </files>
+</package>

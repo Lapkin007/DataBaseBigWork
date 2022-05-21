@@ -1,0 +1,44 @@
+﻿<Window x:Class="_2019014867_linjun_databasebigwork.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2019014867_linjun_databasebigwork"
+        mc:Ignorable="d"
+        Title="Admin" Height="450" Width="800">
+    <Grid>
+        <Label Content="游戏独立测评系统-管理员界面" HorizontalAlignment="Left" Height="64" Margin="96,10,0,0" VerticalAlignment="Top" Width="657" FontSize="48" FontFamily="STXinwei" FontWeight="Normal" Foreground="#FF246AD8"/>
+        <Label x:Name="admin_zhmm" Content="Label" HorizontalAlignment="Left" Height="31" Margin="33,74,0,0" VerticalAlignment="Top" Width="229"/>
+        <Button x:Name="admin_return_main" Content="返回" HorizontalAlignment="Left" Height="33" Margin="10,21,0,0" VerticalAlignment="Top" Width="80" Click="admin_return_main_Click"/>
+        <GroupBox x:Name="GB_register" HorizontalAlignment="Left" Height="72" Header="注册一个管理员用户" Margin="29,104,0,0" VerticalAlignment="Top" Width="724" Background="#FFD8F7EF" BorderBrush="#FF2C3033" Foreground="#FF398A41">
+            <Grid HorizontalAlignment="Left" Height="44" VerticalAlignment="Top" Width="714">
+                <Label Content="账号：" HorizontalAlignment="Left" Height="34" Margin="21,2,0,0" VerticalAlignment="Top" Width="96" FontSize="20"/>
+                <Label Content="密码：" HorizontalAlignment="Center" Height="34" VerticalAlignment="Center" Width="66" FontSize="20"/>
+                <TextBox x:Name="TB_account" HorizontalAlignment="Left" Height="29" Margin="94,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="198" />
+                <Button x:Name="B_register" Content="注册" HorizontalAlignment="Left" Height="33" Margin="600,0,0,0" VerticalAlignment="Center" Width="86" Click="B_register_Click"/>
+                <TextBox x:Name="TB_password" HorizontalAlignment="Left" Height="28" Margin="390,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="198" />
+            </Grid>
+        </GroupBox>
+        <Button x:Name="B_checkcomment" Content="查看评论" HorizontalAlignment="Left" Height="50" Margin="491,350,0,0" VerticalAlignment="Top" Width="262" Click="B_checkcomment_Click"/>
+        <GroupBox x:Name="GB_delete" HorizontalAlignment="Left" Height="72" Header="删除一个普通用户" Margin="29,192,0,0" VerticalAlignment="Top" Width="724" Background="#FFEC8C8C" BorderBrush="#FF2C3033" Foreground="#FF443430">
+            <Grid HorizontalAlignment="Left" Height="44" VerticalAlignment="Top" Width="714">
+                <Label Content="账号：" HorizontalAlignment="Left" Height="34" Margin="21,2,0,0" VerticalAlignment="Top" Width="96" FontSize="20"/>
+                <Label Content="密码：" HorizontalAlignment="Center" Height="34" VerticalAlignment="Center" Width="66" FontSize="20"/>
+                <TextBox x:Name="TB_account1" HorizontalAlignment="Left" Height="29" Margin="94,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="198" />
+                <Button x:Name="B_delete" Content="删除" HorizontalAlignment="Left" Height="33" Margin="600,0,0,0" VerticalAlignment="Center" Width="86" Click="B_delete_Click"/>
+                <TextBox x:Name="TB_password1" HorizontalAlignment="Left" Height="28" Margin="390,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="198" />
+            </Grid>
+        </GroupBox>
+        <GroupBox x:Name="GB_gamelist" HorizontalAlignment="Left" Height="121" Header="游戏列表面板" Margin="29,283,0,0" VerticalAlignment="Top" Width="429" Background="#FFFFF4BE">
+            <Grid HorizontalAlignment="Center" Height="90" VerticalAlignment="Top" Width="422">
+                <ListBox x:Name="LB_gamelist" HorizontalAlignment="Left" Height="76" Margin="5,0,0,0" VerticalAlignment="Center" Width="241" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionChanged="LB_gamelist_SelectionChanged"/>
+                <Label Content="游戏名称：" HorizontalAlignment="Left" Height="25" Margin="251,0,0,0" VerticalAlignment="Top" Width="99" Foreground="#FF7D2B2B"/>
+                <TextBox x:Name="TB_gamelist" HorizontalAlignment="Left" Height="28" Margin="256,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="156"/>
+                <Button x:Name="B_add" Content="添加" HorizontalAlignment="Left" Height="24" Margin="334,59,0,0" VerticalAlignment="Top" Width="78" Click="B_add_Click"/>
+                <Button x:Name="B_game_delete" Content="删除" HorizontalAlignment="Left" Height="26" Margin="256,58,0,0" VerticalAlignment="Top" Width="73" Click="B_game_delete_Click"/>
+            </Grid>
+        </GroupBox>
+        <Button Content="查看普通用户" HorizontalAlignment="Left" Height="49" Margin="491,296,0,0" VerticalAlignment="Top" Width="262" Click="Button_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+﻿<Window x:Class="_2019014867_linjun_databasebigwork.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2019014867_linjun_databasebigwork"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="mysql_connect" Content="测试数据库" HorizontalAlignment="Left" Height="56" Margin="600,270,0,0" VerticalAlignment="Top" Width="176" Click="Button_Connect"/>
+        <Label x:Name="label1" Content="2019014867-林俊-&#xD;&#xA;计算机193" HorizontalAlignment="Left" Height="54" Margin="656,371,0,0" VerticalAlignment="Top" Width="134"/>
+        <Label Content="游戏独立测评系统" HorizontalAlignment="Center" Height="64" Margin="0,10,0,0" VerticalAlignment="Top" Width="400" FontSize="48" FontFamily="STXinwei" FontWeight="Normal" Foreground="#FF246AD8"/>
+        <Label Content="账号：" HorizontalAlignment="Left" Height="34" Margin="242,237,0,0" VerticalAlignment="Top" Width="96" FontSize="20"/>
+        <Label Content="密码：" HorizontalAlignment="Left" Height="34" Margin="242,292,0,0" VerticalAlignment="Top" Width="66" FontSize="20"/>
+        <TextBox x:Name="TB_account" HorizontalAlignment="Left" Height="29" Margin="322,242,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="198" />
+        <PasswordBox x:Name="TB_password" HorizontalAlignment="Left" Height="29" Margin="322,294,0,0" VerticalAlignment="Top" Width="198"/>
+        <Button x:Name="B_login" Content="登录" HorizontalAlignment="Left" Height="46" Margin="352,352,0,0" VerticalAlignment="Top" Width="138" Click="B_login_Click"/>
+        <Button x:Name="B_clear" Content="重置" HorizontalAlignment="Left" Height="46" Margin="206,352,0,0" VerticalAlignment="Top" Width="138" Click="B_clear_Click"/>
+        <Label Content="本系统为依附于各游戏平台的子系统&#xA;&#xA;先点击测试数据库按钮，在进行登录，登陆账号时，先选择管理员账号或者用户组账号，再进行&#xA;登录（默认为普通用户）" HorizontalAlignment="Left" Height="84" Margin="146,109,0,0" VerticalAlignment="Top" Width="518"/>
+        <RadioButton x:Name="RB_User" Content="普通用户" HorizontalAlignment="Left" Height="20" Margin="86,260,0,0" VerticalAlignment="Top" Width="112" Checked="RadioButton_Checked" />
+        <RadioButton x:Name="RB_Admin" Content="管理员" HorizontalAlignment="Left" Height="20" Margin="86,302,0,0" VerticalAlignment="Top" Width="120" Checked="RB_Admin_Checked"/>
+        <Label Content="测试账号&#xA;管理员admin（账号密码）&#xA;普通用户ice(账号密码)" HorizontalAlignment="Left" Height="56" Margin="600,198,0,0" VerticalAlignment="Top" Width="232"/>
+        <Button x:Name="B_register" Content="注册普通级账号" HorizontalAlignment="Left" Height="46" Margin="497,352,0,0" VerticalAlignment="Top" Width="138" Click="B_Register"/>
+
+    </Grid>
+</Window>
